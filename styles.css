@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    border: 5px solid red;
+}
+
+.controls {
+    display: flex;
+    justify-content: space-around;
+    border: 5px solid black;
+    width: 50%;
+    margin: 20px auto 0 auto;
+}
